@@ -1,0 +1,9 @@
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/uninstall.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/cpp_srvcli_uninstall.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/test.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/edit_cache.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/rebuild_cache.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/list_install_components.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/install.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/install/local.dir
+/home/kiara/final_ws/build/cpp_srvcli/CMakeFiles/install/strip.dir

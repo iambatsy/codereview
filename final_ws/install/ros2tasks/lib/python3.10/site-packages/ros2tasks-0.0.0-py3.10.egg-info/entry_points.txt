@@ -1,0 +1,4 @@
+[console_scripts]
+image_publisher_node = ros2tasks.image_publisher_node:main
+vision_detector_node = ros2tasks.vision_detector_node:main
+

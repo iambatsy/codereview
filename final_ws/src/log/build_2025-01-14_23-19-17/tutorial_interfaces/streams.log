@@ -1,0 +1,235 @@
+[0.428s] Invoking command in '/home/kiara/final_ws/src/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiara/final_ws/src/install/py_srvcli:/home/kiara/final_ws/src/install/my_robot_controller:/home/kiara/final_ws/install/py_srvcli:/home/kiara/final_ws/install/my_robot_controller:/home/kiara/ros2_ws/install/py_pubsub:/home/kiara/ros2_ws/install/launch_testing_examples:/home/kiara/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/kiara/ros2_ws/install/examples_rclpy_minimal_service:/home/kiara/ros2_ws/install/examples_rclpy_minimal_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_client:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_server:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_client:/home/kiara/ros2_ws/install/examples_rclpy_guard_conditions:/home/kiara/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/kiara/final_ws/src/build/tutorial_interfaces -- -j12 -l12
+[0.462s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.595s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.625s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.628s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.635s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.648s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.664s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.710s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.978s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.360s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.505s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.526s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.551s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.551s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.551s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.583s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.588s] -- Added test 'lint_cmake' to check CMake code style
+[1.589s] -- Added test 'xmllint' to check XML markup files
+[1.590s] -- Configuring done
+[1.614s] -- Generating done
+[1.622s] -- Build files have been written to: /home/kiara/final_ws/src/build/tutorial_interfaces
+[1.650s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_generator_c[0m
+[1.661s] [  2%] Built target tutorial_interfaces__cpp
+[1.663s] [ 12%] Built target tutorial_interfaces__rosidl_generator_c
+[1.667s] [ 12%] Built target ament_cmake_python_copy_tutorial_interfaces
+[1.671s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_c[0m
+[1.671s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_c[0m
+[1.673s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_cpp[0m
+[1.674s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_cpp[0m
+[1.674s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[1.676s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_c[0m
+[1.679s] [ 23%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c
+[1.682s] [ 34%] Built target tutorial_interfaces__rosidl_typesupport_cpp
+[1.683s] [ 44%] Built target tutorial_interfaces__rosidl_typesupport_c
+[1.687s] [ 55%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c
+[1.687s] [ 65%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.692s] [ 76%] Built target tutorial_interfaces__rosidl_typesupport_introspection_cpp
+[1.710s] [ 76%] Built target tutorial_interfaces
+[1.732s] [ 78%] Built target tutorial_interfaces__py
+[1.745s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_generator_py[0m
+[1.761s] [ 87%] Built target tutorial_interfaces__rosidl_generator_py
+[1.772s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_c__pyext[0m
+[1.772s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.772s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[1.783s] [ 91%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.784s] [ 95%] Built target tutorial_interfaces__rosidl_typesupport_c__pyext
+[1.787s] [100%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.951s] running egg_info
+[1.952s] writing tutorial_interfaces.egg-info/PKG-INFO
+[1.952s] writing dependency_links to tutorial_interfaces.egg-info/dependency_links.txt
+[1.953s] writing top-level names to tutorial_interfaces.egg-info/top_level.txt
+[1.955s] reading manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[1.956s] writing manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[1.986s] [100%] Built target ament_cmake_python_build_tutorial_interfaces_egg
+[1.999s] Invoked command in '/home/kiara/final_ws/src/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiara/final_ws/src/install/py_srvcli:/home/kiara/final_ws/src/install/my_robot_controller:/home/kiara/final_ws/install/py_srvcli:/home/kiara/final_ws/install/my_robot_controller:/home/kiara/ros2_ws/install/py_pubsub:/home/kiara/ros2_ws/install/launch_testing_examples:/home/kiara/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/kiara/ros2_ws/install/examples_rclpy_minimal_service:/home/kiara/ros2_ws/install/examples_rclpy_minimal_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_client:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_server:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_client:/home/kiara/ros2_ws/install/examples_rclpy_guard_conditions:/home/kiara/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/kiara/final_ws/src/build/tutorial_interfaces -- -j12 -l12
+[2.000s] Invoking command in '/home/kiara/final_ws/src/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiara/final_ws/src/install/py_srvcli:/home/kiara/final_ws/src/install/my_robot_controller:/home/kiara/final_ws/install/py_srvcli:/home/kiara/final_ws/install/my_robot_controller:/home/kiara/ros2_ws/install/py_pubsub:/home/kiara/ros2_ws/install/launch_testing_examples:/home/kiara/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/kiara/ros2_ws/install/examples_rclpy_minimal_service:/home/kiara/ros2_ws/install/examples_rclpy_minimal_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_client:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_server:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_client:/home/kiara/ros2_ws/install/examples_rclpy_guard_conditions:/home/kiara/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/kiara/final_ws/src/build/tutorial_interfaces
+[2.009s] -- Install configuration: ""
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/ament_index/resource_index/rosidl_interfaces/tutorial_interfaces
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__struct.h
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__functions.h
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__functions.c
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.h
+[2.010s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/add_three_ints.h
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__functions.h
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.h
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__functions.c
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.h
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__struct.h
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__functions.h
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__functions.c
+[2.011s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__struct.h
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/sphere.h
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/num.h
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_c__visibility_control.h
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.sh
+[2.012s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.dsv
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_c.so
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[2.012s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_c.h
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_c.h
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_c.h
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_c.so
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[2.013s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/add_three_ints.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__struct.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__builder.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__traits.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/num.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__traits.hpp
+[2.014s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__struct.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__builder.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__struct.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__traits.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__builder.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/sphere.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[2.015s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/dds_fastrtps
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_cpp.hpp
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_cpp.hpp
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/dds_fastrtps
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[2.016s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.c
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_c.h
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_introspection_c.h
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.c
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_c.h
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.c
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.017s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_c.so
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_c.so
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.cpp
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_cpp.hpp
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_introspection_cpp.hpp
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.cpp
+[2.018s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.cpp
+[2.019s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_cpp.hpp
+[2.019s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_cpp.so
+[2.019s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_cpp.so
+[2.019s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.sh
+[2.019s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.dsv
+[2.019s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info
+[2.019s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.019s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.019s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[2.019s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[2.019s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/libtutorial_interfaces__rosidl_generator_py.so
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_add_three_ints.py
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_add_three_ints_s.c
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/__init__.py
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_c.c
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_sphere_s.c
+[2.020s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_num_s.c
+[2.021s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_num.py
+[2.021s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/__init__.py
+[2.021s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_sphere.py
+[2.021s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.021s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/__init__.py
+[2.021s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.066s] Listing '/home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces'...
+[2.066s] Compiling '/home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/__init__.py'...
+[2.066s] Listing '/home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg'...
+[2.066s] Listing '/home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv'...
+[2.072s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.072s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.072s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.072s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_py.so
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/msg/Num.idl
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/msg/Sphere.idl
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts.idl
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/msg/Num.msg
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/msg/Sphere.msg
+[2.073s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts.srv
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts_Request.msg
+[2.073s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts_Response.msg
+[2.074s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/ament_index/resource_index/package_run_dependencies/tutorial_interfaces
+[2.074s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/ament_index/resource_index/parent_prefix_path/tutorial_interfaces
+[2.074s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.sh
+[2.074s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.dsv
+[2.074s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.sh
+[2.074s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.dsv
+[2.074s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.bash
+[2.074s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.sh
+[2.074s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.zsh
+[2.074s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.dsv
+[2.075s] -- Installing: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/package.dsv
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/ament_index/resource_index/packages/tutorial_interfaces
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport-noconfig.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cppExport.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.075s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[2.076s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig-version.cmake
+[2.077s] -- Up-to-date: /home/kiara/final_ws/src/install/tutorial_interfaces/share/tutorial_interfaces/package.xml
+[2.079s] Invoked command in '/home/kiara/final_ws/src/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiara/final_ws/src/install/py_srvcli:/home/kiara/final_ws/src/install/my_robot_controller:/home/kiara/final_ws/install/py_srvcli:/home/kiara/final_ws/install/my_robot_controller:/home/kiara/ros2_ws/install/py_pubsub:/home/kiara/ros2_ws/install/launch_testing_examples:/home/kiara/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/kiara/ros2_ws/install/examples_rclpy_minimal_service:/home/kiara/ros2_ws/install/examples_rclpy_minimal_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_client:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_server:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_client:/home/kiara/ros2_ws/install/examples_rclpy_guard_conditions:/home/kiara/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/kiara/final_ws/src/build/tutorial_interfaces

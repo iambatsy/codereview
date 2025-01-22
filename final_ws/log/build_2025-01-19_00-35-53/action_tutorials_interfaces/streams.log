@@ -1,0 +1,23 @@
+[0.030s] Invoking command in '/home/kiara/final_ws/build/action_tutorials_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kiara/final_ws/install/py_srvcli:/home/kiara/final_ws/install/my_robot_controller:/home/kiara/ros2_ws/install/py_pubsub:/home/kiara/ros2_ws/install/launch_testing_examples:/home/kiara/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/kiara/ros2_ws/install/examples_rclpy_minimal_service:/home/kiara/ros2_ws/install/examples_rclpy_minimal_publisher:/home/kiara/ros2_ws/install/examples_rclpy_minimal_client:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_server:/home/kiara/ros2_ws/install/examples_rclpy_minimal_action_client:/home/kiara/ros2_ws/install/examples_rclpy_guard_conditions:/home/kiara/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/kiara/final_ws/build/action_tutorials_interfaces -- -j12 -l12
+[0.833s] [  9%] Built target action_tutorials_interfaces__rosidl_generator_c
+[0.833s] [ 12%] Built target action_tutorials_interfaces__cpp
+[0.833s] [ 12%] Built target ament_cmake_python_copy_action_tutorials_interfaces
+[0.833s] [ 22%] Built target action_tutorials_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.834s] [ 51%] Built target action_tutorials_interfaces__rosidl_typesupport_c
+[0.834s] [ 51%] Built target action_tutorials_interfaces__rosidl_typesupport_introspection_cpp
+[0.834s] [ 51%] Built target action_tutorials_interfaces__rosidl_typesupport_introspection_c
+[0.834s] [ 61%] Built target action_tutorials_interfaces__rosidl_typesupport_fastrtps_c
+[0.834s] [ 70%] Built target action_tutorials_interfaces__rosidl_typesupport_cpp
+[0.834s] [ 70%] Built target action_tutorials_interfaces
+[0.834s] [ 74%] Built target action_tutorials_interfaces__py
+[0.834s] [ 80%] Built target action_tutorials_interfaces__rosidl_generator_py
+[0.834s] [ 87%] Built target action_tutorials_interfaces__rosidl_typesupport_c__pyext
+[0.834s] [100%] Built target action_tutorials_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.834s] [100%] Built target action_tutorials_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.834s] running egg_info
+[0.834s] writing action_tutorials_interfaces.egg-info/PKG-INFO
+[0.834s] writing dependency_links to action_tutorials_interfaces.egg-info/dependency_links.txt
+[0.834s] writing top-level names to action_tutorials_interfaces.egg-info/top_level.txt
+[0.834s] reading manifest file 'action_tutorials_interfaces.egg-info/SOURCES.txt'
+[0.834s] writing manifest file 'action_tutorials_interfaces.egg-info/SOURCES.txt'
+[0.834s] [100%] Built target ament_cmake_python_build_action_tutorials_interfaces_egg

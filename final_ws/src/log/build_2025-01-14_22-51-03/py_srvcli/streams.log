@@ -1,0 +1,42 @@
+[0.774s] Invoking command in '/home/kiara/final_ws/src/py_srvcli': PYTHONPATH=/home/kiara/final_ws/src/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/py_srvcli build --build-base /home/kiara/final_ws/src/build/py_srvcli/build install --record /home/kiara/final_ws/src/build/py_srvcli/install.log --single-version-externally-managed install_data
+[0.949s] running egg_info
+[0.949s] creating ../build/py_srvcli/py_srvcli.egg-info
+[0.949s] writing ../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.950s] writing dependency_links to ../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.950s] writing entry points to ../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.950s] writing requirements to ../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.950s] writing top-level names to ../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[0.950s] writing manifest file '../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.951s] reading manifest file '../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.951s] adding license file 'LICENSE'
+[0.952s] writing manifest file '../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.952s] running build
+[0.952s] running build_py
+[0.952s] creating /home/kiara/final_ws/src/build/py_srvcli/build
+[0.952s] creating /home/kiara/final_ws/src/build/py_srvcli/build/lib
+[0.952s] creating /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli
+[0.952s] copying py_srvcli/service_member_function.py -> /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli
+[0.954s] copying py_srvcli/__init__.py -> /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli
+[0.954s] copying py_srvcli/client_member_function.py -> /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli
+[0.954s] running install
+[0.954s] running install_lib
+[0.955s] creating /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.955s] copying /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.955s] copying /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.955s] copying /home/kiara/final_ws/src/build/py_srvcli/build/lib/py_srvcli/client_member_function.py -> /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.956s] byte-compiling /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-310.pyc
+[0.956s] byte-compiling /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/__init__.py to __init__.cpython-310.pyc
+[0.956s] byte-compiling /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/client_member_function.py to client_member_function.cpython-310.pyc
+[0.956s] running install_data
+[0.956s] creating /home/kiara/final_ws/src/install/py_srvcli/share/ament_index
+[0.956s] creating /home/kiara/final_ws/src/install/py_srvcli/share/ament_index/resource_index
+[0.956s] creating /home/kiara/final_ws/src/install/py_srvcli/share/ament_index/resource_index/packages
+[0.957s] copying resource/py_srvcli -> /home/kiara/final_ws/src/install/py_srvcli/share/ament_index/resource_index/packages
+[0.957s] copying package.xml -> /home/kiara/final_ws/src/install/py_srvcli/share/py_srvcli
+[0.957s] running install_egg_info
+[0.958s] Copying ../build/py_srvcli/py_srvcli.egg-info to /home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info
+[0.958s] running install_scripts
+[0.974s] Installing client script to /home/kiara/final_ws/src/install/py_srvcli/lib/py_srvcli
+[0.974s] Installing service script to /home/kiara/final_ws/src/install/py_srvcli/lib/py_srvcli
+[0.974s] writing list of installed files to '/home/kiara/final_ws/src/build/py_srvcli/install.log'
+[0.999s] Invoked command in '/home/kiara/final_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/kiara/final_ws/src/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/src/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/py_srvcli build --build-base /home/kiara/final_ws/src/build/py_srvcli/build install --record /home/kiara/final_ws/src/build/py_srvcli/install.log --single-version-externally-managed install_data

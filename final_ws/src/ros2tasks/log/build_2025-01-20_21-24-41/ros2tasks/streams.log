@@ -1,0 +1,42 @@
+[0.497s] Invoking command in '/home/kiara/final_ws/src/ros2tasks': PYTHONPATH=/home/kiara/final_ws/src/ros2tasks/build/ros2tasks/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/ros2tasks build --build-base /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build install --record /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/install.log --single-version-externally-managed install_data
+[0.669s] running egg_info
+[0.669s] creating build/ros2tasks/ros2tasks.egg-info
+[0.669s] writing build/ros2tasks/ros2tasks.egg-info/PKG-INFO
+[0.669s] writing dependency_links to build/ros2tasks/ros2tasks.egg-info/dependency_links.txt
+[0.669s] writing entry points to build/ros2tasks/ros2tasks.egg-info/entry_points.txt
+[0.669s] writing requirements to build/ros2tasks/ros2tasks.egg-info/requires.txt
+[0.669s] writing top-level names to build/ros2tasks/ros2tasks.egg-info/top_level.txt
+[0.670s] writing manifest file 'build/ros2tasks/ros2tasks.egg-info/SOURCES.txt'
+[0.670s] reading manifest file 'build/ros2tasks/ros2tasks.egg-info/SOURCES.txt'
+[0.670s] adding license file 'LICENSE'
+[0.671s] writing manifest file 'build/ros2tasks/ros2tasks.egg-info/SOURCES.txt'
+[0.671s] running build
+[0.671s] running build_py
+[0.671s] creating /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build
+[0.671s] creating /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib
+[0.671s] creating /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks
+[0.671s] copying ros2tasks/image_publisher_node.py -> /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks
+[0.672s] copying ros2tasks/vision_detector_node.py -> /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks
+[0.680s] copying ros2tasks/__init__.py -> /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks
+[0.681s] running install
+[0.681s] running install_lib
+[0.681s] creating /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks
+[0.681s] copying /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks/image_publisher_node.py -> /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks
+[0.681s] copying /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks/vision_detector_node.py -> /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks
+[0.681s] copying /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build/lib/ros2tasks/__init__.py -> /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks
+[0.682s] byte-compiling /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks/image_publisher_node.py to image_publisher_node.cpython-310.pyc
+[0.682s] byte-compiling /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks/vision_detector_node.py to vision_detector_node.cpython-310.pyc
+[0.683s] byte-compiling /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks/__init__.py to __init__.cpython-310.pyc
+[0.683s] running install_data
+[0.683s] creating /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/share/ament_index
+[0.683s] creating /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/share/ament_index/resource_index
+[0.683s] creating /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/share/ament_index/resource_index/packages
+[0.683s] copying resource/ros2tasks -> /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/share/ament_index/resource_index/packages
+[0.683s] copying package.xml -> /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/share/ros2tasks
+[0.683s] running install_egg_info
+[0.684s] Copying build/ros2tasks/ros2tasks.egg-info to /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks-0.0.0-py3.10.egg-info
+[0.684s] running install_scripts
+[0.699s] Installing image_publisher script to /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/ros2tasks
+[0.699s] Installing vision_detector_node script to /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/ros2tasks
+[0.699s] writing list of installed files to '/home/kiara/final_ws/src/ros2tasks/build/ros2tasks/install.log'
+[0.718s] Invoked command in '/home/kiara/final_ws/src/ros2tasks' returned '0': PYTHONPATH=/home/kiara/final_ws/src/ros2tasks/build/ros2tasks/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/ros2tasks build --build-base /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/build install --record /home/kiara/final_ws/src/ros2tasks/build/ros2tasks/install.log --single-version-externally-managed install_data

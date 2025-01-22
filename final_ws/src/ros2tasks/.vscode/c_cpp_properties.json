@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kiara/final_ws/install/tutorial_interfaces/include/**",
+        "/home/kiara/final_ws/install/action_tutorials_interfaces/include/**",
+        "/home/kiara/ros2_ws/install/examples_rclcpp_cbg_executor/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kiara/final_ws/src/action_tutorials_interfaces/include/**",
+        "/home/kiara/final_ws/src/cpp_srvcli/include/**",
+        "/home/kiara/final_ws/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

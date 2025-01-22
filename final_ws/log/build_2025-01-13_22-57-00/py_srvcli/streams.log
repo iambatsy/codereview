@@ -1,0 +1,23 @@
+[0.480s] Invoking command in '/home/kiara/final_ws/src/py_srvcli': PYTHONPATH=/home/kiara/final_ws/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/kiara/final_ws/build/py_srvcli/build install --record /home/kiara/final_ws/build/py_srvcli/install.log --single-version-externally-managed install_data
+[0.656s] running egg_info
+[0.656s] writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.656s] writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.656s] writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.656s] writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.656s] writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[0.657s] reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.657s] adding license file 'LICENSE'
+[0.658s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.658s] running build
+[0.658s] running build_py
+[0.658s] running install
+[0.659s] running install_lib
+[0.659s] running install_data
+[0.659s] running install_egg_info
+[0.660s] removing '/home/kiara/final_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info' (and everything under it)
+[0.661s] Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/kiara/final_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info
+[0.661s] running install_scripts
+[0.676s] Installing client script to /home/kiara/final_ws/install/py_srvcli/lib/py_srvcli
+[0.676s] Installing service script to /home/kiara/final_ws/install/py_srvcli/lib/py_srvcli
+[0.677s] writing list of installed files to '/home/kiara/final_ws/build/py_srvcli/install.log'
+[0.696s] Invoked command in '/home/kiara/final_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/kiara/final_ws/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/kiara/final_ws/build/py_srvcli/build install --record /home/kiara/final_ws/build/py_srvcli/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+running egg_info
+writing build/ros2tasks/ros2tasks.egg-info/PKG-INFO
+writing dependency_links to build/ros2tasks/ros2tasks.egg-info/dependency_links.txt
+writing entry points to build/ros2tasks/ros2tasks.egg-info/entry_points.txt
+writing requirements to build/ros2tasks/ros2tasks.egg-info/requires.txt
+writing top-level names to build/ros2tasks/ros2tasks.egg-info/top_level.txt
+reading manifest file 'build/ros2tasks/ros2tasks.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/ros2tasks/ros2tasks.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/ros2tasks/ros2tasks.egg-info to /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/python3.10/site-packages/ros2tasks-0.0.0-py3.10.egg-info
+running install_scripts
+Installing image_publisher_node script to /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/ros2tasks
+Installing vision_detector_node script to /home/kiara/final_ws/src/ros2tasks/install/ros2tasks/lib/ros2tasks
+writing list of installed files to '/home/kiara/final_ws/src/ros2tasks/build/ros2tasks/install.log'

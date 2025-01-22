@@ -1,0 +1,23 @@
+[1.415s] Invoking command in '/home/kiara/final_ws/src/my_robot_controller': PYTHONPATH=/home/kiara/final_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/kiara/final_ws/build/my_robot_controller/build install --record /home/kiara/final_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[1.607s] running egg_info
+[1.608s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[1.609s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[1.609s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[1.609s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[1.609s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[1.612s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.613s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.614s] running build
+[1.614s] running build_py
+[1.614s] running install
+[1.614s] running install_lib
+[1.615s] running install_data
+[1.616s] running install_egg_info
+[1.618s] removing '/home/kiara/final_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.618s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/kiara/final_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[1.619s] running install_scripts
+[1.637s] Installing listener script to /home/kiara/final_ws/install/my_robot_controller/lib/my_robot_controller
+[1.637s] Installing talker script to /home/kiara/final_ws/install/my_robot_controller/lib/my_robot_controller
+[1.637s] Installing test_node script to /home/kiara/final_ws/install/my_robot_controller/lib/my_robot_controller
+[1.639s] writing list of installed files to '/home/kiara/final_ws/build/my_robot_controller/install.log'
+[1.657s] Invoked command in '/home/kiara/final_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/kiara/final_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiara/final_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/kiara/final_ws/build/my_robot_controller/build install --record /home/kiara/final_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
